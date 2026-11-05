@@ -3,6 +3,7 @@
 
 --CREATE DATABASE bilbioteca;
 
+-- novo comentario
 
 -- criando a tabela de editoras
 CREATE TABLE editoras (
